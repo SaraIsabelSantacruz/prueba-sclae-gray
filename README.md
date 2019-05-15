@@ -1,0 +1,1 @@
+# prueba-sclae-gray
